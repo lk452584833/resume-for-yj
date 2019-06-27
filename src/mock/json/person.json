@@ -1,0 +1,82 @@
+
+{
+  "info": {
+    "name": "袁杰",
+    "tel": "183-2802-7764",
+		"education": "大专",
+		"nation": "汉",
+		"age": "23",
+		"sex": "BOY",
+		"workLongTime": "2",
+		"graduateSchool": "成都广播电视大学", 
+		"graduateTime": "2015.06",
+		"major": "计算机信息管理",
+		"majorSkills": [
+			{"name": "CSS", "highlight": 0},
+			{"name": "JAVA", "highlight": 0},
+			{"name": "MAC", "highlight": 0},
+			{"name": "ID", "highlight": 1},
+			{"name": "PS", "highlight": 1},
+			{"name": "IA", "highlight": 1},
+			{"name": "win", "highlight": 0},
+			{"name": "xd", "highlight": 0}
+		],
+	  "basicMsg": {
+	  	"name": "袁杰 / YUANJIE",
+	  	"city": "成都 / CHENG DU",
+	  	"mail": "916362477@qq.com",
+	  	"money": "面议"
+	  },
+		"headImages": [
+			"http://person.gzhdglnk.com/web/timg@2x.png",
+			"http://person.gzhdglnk.com/web/timg@2x.png",
+			"http://person.gzhdglnk.com/web/timg@2x.png"
+		],
+    "selfs": [
+      "具备计算机网络方面的知识素养，具有熟练的计算机操作技能",
+      "热爱编程，有良好的代码书写习惯，能独立分析和解决问题。",
+			"性格认真求实，具备团队合作精神，较强适应力和动手能力"
+    ]
+},
+	"works": [
+		{
+			"name": "成都网络科技有限公司",
+			"description": "公司描述",
+			"web": "PHP开发工程师",
+			"dutys": [
+				"1.负责公司前端开发，完成PC端与移动端项目开发测试。",
+				"2.负责公司前端开发，完成PC端与移动端项目开发测试。",
+				"3.负责公司前端开发，完成PC端与移动端项目开发测试。",
+				"4.负责公司前端开发，完成PC端与移动端项目开发测试。"
+			],
+			"starTime": 1475254861000,
+			"endTime": 1514739661000
+		},
+		{
+			"name": "成都网络科技有限公司",
+			"description": "公司描述",
+			"web": "PHP开发工程师",
+			"dutys": [
+				"1.负责公司前端开发，完成PC端与移动端项目开发测试。",
+				"2.负责公司前端开发，完成PC端与移动端项目开发测试。",
+				"3.负责公司前端开发，完成PC端与移动端项目开发测试。",
+				"4.负责公司前端开发，完成PC端与移动端项目开发测试。"
+			],
+			"starTime": 1475254861000,
+			"endTime": 1514739661000
+		},
+		{
+			"name": "成都网络科技有限公司",
+			"description": "公司描述",
+			"web": "PHP开发工程师",
+			"dutys": [
+				"1.负责公司前端开发，完成PC端与移动端项目开发测试。",
+				"2.负责公司前端开发，完成PC端与移动端项目开发测试。",
+				"3.负责公司前端开发，完成PC端与移动端项目开发测试。",
+				"4.负责公司前端开发，完成PC端与移动端项目开发测试。"
+			],
+			"starTime": 1475254861000,
+			"endTime": 1514739661000
+		}
+	]
+}
